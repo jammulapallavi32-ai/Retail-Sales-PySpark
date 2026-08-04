@@ -36,8 +36,7 @@ This project demonstrates how to analyze retail sales data using PySpark. It per
 ## Project Structure
 ```
 Retail-Sales-PySpark/
-│── data/
-│   └── retail_sales.csv
+│── retail_sales.csv
 │── main.py
 │── requirements.txt
 │── README.md
