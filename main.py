@@ -3,7 +3,7 @@ from pyspark.sql.window import Window
 from pyspark.sql.functions import*
 spark=SparkSession.builder.appName("Retail Sales Analysis").getOrCreate()
 # Read CSV 
-df=spark.read.csv("data/retail_sales.csv",header=True,inferSchema=True)
+df=spark.read.csv("retail_sales.csv",header=True,inferSchema=True)
 print("Dataset")
 df.show()
 # Data Transformations
