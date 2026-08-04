@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer,City,Category,Product,Quantity,Price
+1001,2026-01-10,Ravi,Hyderabad,Electronics,Laptop,1,55000
+1002,2026-01-10,Priya,Warangal,Furniture,Chair,2,2500
+1003,2026-01-11,Arjun,Hyderabad,Electronics,Mouse,3,600
+1004,2026-01-11,Sneha,Vijayawada,Groceries,Rice,5,1200
+1005,2026-01-12,Rahul,Hyderabad,Electronics,Keyboard,2,1500
+1006,2026-01-13,Divya,Warangal,Furniture,Table,1,7000
+1007,2026-01-14,Kiran,Khammam,Groceries,Oil,4,300
+1008,2026-01-15,Meena,Hyderabad,Electronics,Monitor,2,12000
+1009,2026-01-16,Ajay,Nizamabad,Furniture,Sofa,1,25000
+1010,2026-01-17,Latha,Karimnagar,Groceries,Sugar,6,60
